@@ -1,3 +1,5 @@
+#JEE
+
 Setting up a JEE project with Servlets, JSP, HTML, JSTL, MVC, JDBC, MYSQL, and incorporating the JPA API into a dynamic web project. Establishing dynamic JPA entity relationships and implementing CRUD operations of products and it's category.
 
 ![image](https://github.com/Malekkk25/JEE/assets/98125803/89bde8ac-0a7b-4353-9bb6-c5c05abe600d)
